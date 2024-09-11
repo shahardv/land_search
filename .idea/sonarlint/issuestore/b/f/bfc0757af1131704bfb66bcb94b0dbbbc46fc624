@@ -1,0 +1,6 @@
+
+ppython:S1192§"KDefine a constant instead of duplicating this literal 'APN number' 4 times.(Ã‘¤Ìşÿÿÿÿ8Ø—Ü2
+tpython:S1192¦"ODefine a constant instead of duplicating this literal 'Property taxes' 5 times.(³•–ñşÿÿÿÿ8Ø—Ü2
+ppython:S1192¦"KDefine a constant instead of duplicating this literal 'MLS Number' 5 times.(³•–ñşÿÿÿÿ8Ø—Ü2
+fpython:S2208"GImport only needed names or import the module and then use its members.(±ĞÜ8Ø—Ü2
+tpython:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(çÒÎ–8Ø—Ü2
